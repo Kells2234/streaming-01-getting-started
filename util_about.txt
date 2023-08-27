@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-08-27 at 11:12 AM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.11.4
+ Python Build Date and Compiler: tags/v3.11.4:d2340ef with Jun  7 2023 05:45:37
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\keros\.venv\streaming-01-getting-started\.venv\Scripts\python.exe
+ Path to virtual environment: C:\Users\keros\.venv\streaming-01-getting-started\.venv
+ Current Working Directory:   C:\Users\keros\.venv\streaming-01-getting-started
+ Path to source directory:    c:\Users\keros\.venv\streaming-01-getting-started
+ Path to script file:         c:\Users\keros\.venv\streaming-01-getting-started\util_about.py
+ User's Home Directory:       C:\Users\keros
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

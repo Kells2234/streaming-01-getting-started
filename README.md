@@ -1,3 +1,5 @@
+Student Name: Kelly Simmons
+
 # streaming-01-getting-started
 
 > Get started with Python for streaming analytics
